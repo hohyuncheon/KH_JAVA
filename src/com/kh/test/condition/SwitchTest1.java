@@ -31,7 +31,7 @@ public class SwitchTest1 {
 		switch(menu) {
 		case 1 : sum = "가정용(가정에서 사용하실 경우를 선택하셨습니다)" ; num +=50 ; break;
 		case 2 : sum = "상업용(상업에서 사용하실 경우를 선택하셨습니다)" ; num +=45 ; break;
-		case 3 : sum = "공업용(공업에서 사용하실 경우를 선택하셨습니다)" ; num +=30 ; 
+		case 3 : sum = "공업용(공업에서 사용하실 경우를 선택하셨습니다)" ; num +=30 ; break; 
 		default : System.out.println( "메뉴번호는 1,2,3만 가능합니다.");
 		return;
 		}
