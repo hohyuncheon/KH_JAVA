@@ -26,7 +26,7 @@ public class ActionBody {
 		//for문 출력문
 		
 		for (int i = 0; i < body.length; i++) {
-			System.out.println(body[i] );
+			ab.action(body[i]);
 		}
 		
 	}
