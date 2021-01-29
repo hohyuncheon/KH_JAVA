@@ -1,4 +1,4 @@
-package Workshop4;
+package workshop4;
 
 //2차원 배열 arr2에 담긴 모든 값의 총합과 평균을 구하는 프로그램을 작성 하시오.
 //int[][] arr2 = {

@@ -1,4 +1,4 @@
-package Workshop4;
+package workshop4;
 
 public class Calc {
 
